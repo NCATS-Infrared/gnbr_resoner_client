@@ -1,6 +1,6 @@
 # swagger_client.ResponseApi
 
-All URIs are relative to *http://localhost:8080*
+All URIs are relative to *https://gnbr-reason.ncats.io*
 
 Method | HTTP request | Description
 ------------- | ------------- | -------------
